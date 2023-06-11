@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/First-Pro-React/static/css/main.659f0557.css",
+    "main.js": "/First-Pro-React/static/js/main.7961d5b9.js",
+    "static/js/787.a5a00b74.chunk.js": "/First-Pro-React/static/js/787.a5a00b74.chunk.js",
+    "static/media/fa-solid-900.ttf": "/First-Pro-React/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/First-Pro-React/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/First-Pro-React/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/First-Pro-React/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/First-Pro-React/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/6.png": "/First-Pro-React/static/media/6.4417330275f78faa31c3.png",
+    "static/media/4.png": "/First-Pro-React/static/media/4.494a4a914b5471b41f3e.png",
+    "static/media/3.png": "/First-Pro-React/static/media/3.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/First-Pro-React/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/1.png": "/First-Pro-React/static/media/1.48c9704ca7f8ce901038.png",
+    "static/media/2.png": "/First-Pro-React/static/media/2.01792c0bdc342bf4bf9c.png",
+    "static/media/5.png": "/First-Pro-React/static/media/5.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/First-Pro-React/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/First-Pro-React/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/First-Pro-React/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/First-Pro-React/index.html",
+    "main.659f0557.css.map": "/First-Pro-React/static/css/main.659f0557.css.map",
+    "main.7961d5b9.js.map": "/First-Pro-React/static/js/main.7961d5b9.js.map",
+    "787.a5a00b74.chunk.js.map": "/First-Pro-React/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659f0557.css",
+    "static/js/main.7961d5b9.js"
+  ]
+}
