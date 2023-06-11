@@ -1,0 +1,25 @@
+.four{
+    background-color: #CCB2A3;
+    height: 80vh;
+}
+.main-header-four h2{ 
+    font-size: 40px;
+    font-weight: 800 ;
+    color: #fff;
+}
+.four .first {
+    padding: 15px;
+    background-color: transparent;
+}
+.four .second{
+    resize: none; 
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    
+}
+.four .button{
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 25px;
+}

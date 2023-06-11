@@ -1,0 +1,21 @@
+.three{
+    background-color: #1D83C1;
+    height: 90vh;
+    padding-top: 40px;
+}
+.main-header-three h2{
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+    
+}
+.cap-three{
+    font-size: 25px;
+    font-weight: 100;
+    line-height: 40px;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+.three .row{
+    padding-top: 40px;
+}

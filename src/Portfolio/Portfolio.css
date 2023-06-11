@@ -1,0 +1,15 @@
+.two{
+padding:40px 0;
+height: 100vh;
+background-color: #e27d3e;
+}
+.main-header h2{
+    font-size: 40px;
+    font-weight: 800;
+}
+.cap-three {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    
+}

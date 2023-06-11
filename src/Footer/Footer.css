@@ -1,0 +1,44 @@
+
+footer .right h3{
+    font-size: 25px;
+    font-weight: 200;
+    margin-top:10px;
+}
+footer .right p{
+    font-size: 16px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+footer .med h3{
+    font-size: 25px;
+    font-weight: 200;
+    margin-top:10px;
+}
+.social{
+    margin-top: 20px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+footer .med .icon i{
+font-size: 16px;
+transition: color .35s ease-in-out;
+}
+footer .med .icon i:hover{
+    color:#1ABC9C
+}
+footer .left h3{
+    font-size: 25px;
+    font-weight: 200;
+    margin-top:10px;
+}
+footer .left p{
+    font-size: 16px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+
+
+
